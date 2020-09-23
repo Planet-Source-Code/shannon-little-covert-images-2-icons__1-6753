@@ -1,0 +1,5 @@
+frmMain = 44, 44, 687, 647, C, 84, 178, 567, 654, C
+modWinFunctions = 143, 122, 626, 598, C
+modCommonProgramFunctions = 66, 66, 658, 453, C
+modStringOps = 0, 0, 0, 0, C
+frmAbout = 22, 22, 614, 409, C, 66, 66, 549, 542, C
